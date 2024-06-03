@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option java_package = "net.calvinpugmire.agiagentmod.entity.custom";
+
+service BrainService {
+    rpc getInput (InputRequest) returns (InputSend);
+    rpc sendAction (ActionReceive) returns (ActionResponse);
+}
+
+message InputRequest {
+    string message = 1;
+}
+
+message InputSend {
+    repeated string new_sight_info = 1;
+    repeated string new_hear_info = 2;
+    repeated float new_reward_info = 3;
+}
+
+message ActionReceive {
+    repeated string action_info = 1;
+}
+
+message ActionResponse {
+    string message = 1;
+}
