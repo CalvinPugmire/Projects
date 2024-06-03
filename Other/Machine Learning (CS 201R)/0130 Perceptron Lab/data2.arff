@@ -1,0 +1,13 @@
+@relation linSep2nonorigin
+@attribute a1 real
+@attribute a2 real
+@attribute class {0,1}
+@data
+-19.0, 32.0, 1
+-78.0, 1.0, 1
+-5.0, 6.0, 1
+42.0, -0.0, 1
+-55.0, 2.0, 0
+-2.0, 90.0, 0
+0.0, -15.0, 0
+100.0, 69.0, 0
