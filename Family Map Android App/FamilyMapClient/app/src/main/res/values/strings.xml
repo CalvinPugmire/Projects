@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Family Map</string>
+
+    <!-- Strings related to login -->
+    <string name="serverHost">Server Host:</string>
+    <string name="serverPort">Server Port:</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="firstName">First Name:</string>
+    <string name="lastName">Last Name:</string>
+    <string name="emailAddress">Email:</string>
+    <string name="gender">Gender:</string>
+    <!-- Checkbox Names -->
+    <string name="mButton">Male</string>
+    <string name="fButton">Female</string>
+    <!-- Button Names -->
+    <string name="loginButton">Log In</string>
+    <string name="registerButton">Register</string>
+    <!-- Messages -->
+    <string name="incorrectServer">Error: incorrect server information.</string>
+
+    <!-- Strings related to map -->
+    <string name="birth">birth</string>
+    <string name="death">death</string>
+
+    <!-- Strings related to event -->
+    <string name="firstNameLabel">First Name</string>
+    <string name="lastNameLabel">Last Name</string>
+    <string name="genderLabel">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="lifeEventsTitle">Life Events</string>
+    <string name="familyMembersTitle">Family</string>
+    <string name="father">Father</string>
+    <string name="mother">Mother</string>
+    <string name="spouse">Spouse</string>
+    <string name="child">Child</string>
+    <string name="NA">N/A</string>
+
+    <!-- Strings related to settings -->
+    <string name="lifeStoryLines">Show Life Story Lines</string>
+    <string name="familyTreeLines">Show Family Tree Lines</string>
+    <string name="spouseLines">Show Spouse Lines</string>
+    <string name="fatherMarkers">Show Father\'s Side Of Family</string>
+    <string name="motherMarkers">Show Mother\'s Side Of Family</string>
+    <string name="maleMarkers">Show Male Events</string>
+    <string name="femaleMarkers">Show Female Events</string>
+    <string name="logoutButton">Logout</string>
+</resources>

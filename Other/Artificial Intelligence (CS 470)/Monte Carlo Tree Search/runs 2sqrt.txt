@@ -1,0 +1,1210 @@
+PS C:\Users\troop\Desktop\finish.delete.Open Tabs\,school\CS 470\Projects\1212 Programming Assignment (Monte Carlo Tree Search)\PA
+-Connect4> python ConnectFour.py mcts ab -p2 5 -n 5
+Playing 10 games between mcts and ab5
+Total Node visits and wins:  500 -93
+Children: 
+    0 : 27 -3 UB:  0.5673734801832426
+    1 : 73 13 UB:  0.5907118508859458
+    2 : 71 15 UB:  0.6296685892059573
+    3 : 148 44 UB:  0.5870923809671533
+    4 : 65 10 UB:  0.5911317707153608
+    5 : 45 3 UB:  0.5922185712149421
+    6 : 71 11 UB:  0.5733305610369431
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -230
+Children: 
+    0 : 51 17 UB:  0.8270033866146242
+    1 : 64 26 UB:  0.8469386691029093
+    2 : 182 108 UB:  0.8547347332728508
+    3 : 111 57 UB:  0.8481400526467564
+    4 : 22 2 UB:  0.8425502104494176
+    5 : 14 -2 UB:  0.799374865152273
+    6 : 56 22 UB:  0.8639731468618508
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -149
+Children: 
+    0 : 110 40 UB:  0.6997804912316068
+    1 : 113 43 UB:  0.712182995439568
+    2 : 61 15 UB:  0.6972968570539977
+    3 : 59 16 UB:  0.7301686639747373
+    4 : 55 13 UB:  0.7117432205209014
+    5 : 25 -1 UB:  0.6651018705646549
+    6 : 77 23 UB:  0.7004703768628842
+MCTS chooses action 1
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -76
+Children: 
+    0 : 72 10 UB:  0.554374150641878
+    1 : 105 23 UB:  0.5631021025077161
+    2 : 67 8 UB:  0.5501125037820036
+    3 : 21 -5 UB:  0.5312339748851158
+    4 : 115 26 UB:  0.5548423988221292
+    5 : 54 4 UB:  0.5538351295088947
+    6 : 66 10 UB:  0.5854753542157508
+MCTS chooses action 4
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -102
+Children: 
+    0 : 51 5 UB:  0.5917092689675655
+    1 : 109 29 UB:  0.6037375985642739
+    2 : 140 44 UB:  0.6122456372480912
+    3 : 77 17 UB:  0.6225482989408063
+    4 : 31 -1 UB:  0.6009421075959149
+    5 : 28 -2 UB:  0.594830070885904
+    6 : 64 10 UB:  0.5969386691029093
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -266
+Children: 
+    0 : 10 -2 UB:  0.9148639467147723
+    1 : 32 8 UB:  0.8732278926294834
+    2 : 161 103 UB:  0.917600613620361
+    3 : 142 88 UB:  0.9155724825981466
+    4 : 39 15 UB:  0.9491486885055431
+    5 : 23 3 UB:  0.8655542995653777
+    6 : 93 51 UB:  0.9139653865939994
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -417
+Children: 
+    0 : 33 19 UB:  1.1894699799469408
+    1 : 28 14 UB:  1.1662586423144754
+    2 : 324 324 UB:  1.1958616307124041
+    3 : 43 27 UB:  1.1655421127439618
+    4 : 19 7 UB:  1.1772283680770597
+    5 : 33 19 UB:  1.1894699799469408
+    6 : 20 7 UB:  1.138327856822413
+MCTS chooses action 2
+Player 1: mcts wins!
+Game over!
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -9
+Children: 
+    0 : 26 -8 UB:  0.3837169609769133
+    1 : 53 -5 UB:  0.3899263302686732
+    2 : 28 -8 UB:  0.3805443566001897
+    3 : 193 36 UB:  0.4403002135667294
+    4 : 119 7 UB:  0.3820064419109645
+    5 : 53 -5 UB:  0.3899263302686732
+    6 : 28 -8 UB:  0.3805443566001897
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -125
+Children: 
+    0 : 43 5 UB:  0.6539142057672176
+    1 : 63 13 UB:  0.6505216345588566
+    2 : 115 37 UB:  0.6504945727351726
+    3 : 148 54 UB:  0.6546599485347209
+    4 : 73 17 UB:  0.645506371433891
+    5 : 34 1 UB:  0.6340316306217559
+    6 : 24 -2 UB:  0.6363082498188976
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -126
+Children: 
+    0 : 54 8 UB:  0.6279092035829688
+    1 : 64 12 UB:  0.6281886691029093
+    2 : 117 37 UB:  0.642172771206808
+    3 : 69 25 UB:  0.7867402915811981
+    4 : 62 12 UB:  0.6412885226456895
+    5 : 110 34 UB:  0.6452350366861523
+    6 : 24 -2 UB:  0.6363082498188976
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -190
+Children: 
+    0 : 174 89 UB:  0.7787624271730083
+    1 : 75 29 UB:  0.7937574214432789
+    2 : 26 2 UB:  0.7683323455922979
+    3 : 49 13 UB:  0.7689503157094473
+    4 : 91 37 UB:  0.7761672062220009
+    5 : 55 16 UB:  0.766288675066356
+    6 : 30 4 UB:  0.7770003330789157
+MCTS chooses action 0
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -108
+Children: 
+    0 : 33 -1 UB:  0.5834093738863346
+    1 : 104 26 UB:  0.5957046343346105
+    2 : 207 73 UB:  0.5976968438164785
+    3 : 31 -1 UB:  0.6009421075959149
+    4 : 33 -1 UB:  0.5834093738863346
+    5 : 84 18 UB:  0.5989503207758913
+    6 : 8 -6 UB:  0.49645578525896683
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -87
+Children: 
+    0 : 46 2 UB:  0.5632862562922142
+    1 : 82 20 UB:  0.633229817047809
+    2 : 61 7 UB:  0.5661493160703912
+    3 : 49 3 UB:  0.564868683056386
+    4 : 191 58 UB:  0.5587618253083527
+    5 : 43 1 UB:  0.5608909499532642
+    6 : 28 -4 UB:  0.5234014994573326
+MCTS chooses action 4
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -44
+Children: 
+    0 : 56 -2 UB:  0.43540171829042223
+    1 : 11 -7 UB:  0.42661742892759047
+    2 : 217 43 UB:  0.43748385138933044
+    3 : 19 -7 UB:  0.44038626281390186
+    4 : 155 31 UB:  0.48317572564141936
+    5 : 29 -7 UB:  0.41329134117404964
+    6 : 13 -7 UB:  0.43933882644093714
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -3
+Children: 
+    0 : 35 -9 UB:  0.33877698878189677
+    1 : 23 -9 UB:  0.343815169130595
+    2 : 19 -9 UB:  0.335123104919165
+    3 : 64 -6 UB:  0.34693866910290927
+    4 : 310 51 UB:  0.364751604900727
+    5 : 7 -7 UB:  0.3325172846289508
+    6 : 42 -8 UB:  0.3535217129871274
+MCTS chooses action 4
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -47
+Children: 
+    0 : 60 2 UB:  0.48847463367943433
+    1 : 127 22 UB:  0.4860667137802053
+    2 : 19 -7 UB:  0.44038626281390186
+    3 : 85 11 UB:  0.511806943681836
+    4 : 43 -3 UB:  0.4678676941393106
+    5 : 146 28 UB:  0.4835540519897347
+    6 : 20 -6 UB:  0.48832785682241314
+MCTS chooses action 5
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -435
+Children: 
+    0 : 3 -3 UB:  1.0354537738830611
+    1 : 11 1 UB:  1.1538901562003177
+    2 : 17 5 UB:  1.1491792615172542
+    3 : 39 23 UB:  1.1542768936337482
+    4 : 23 10 UB:  1.169902125652334
+    5 : 402 402 UB:  1.1758364246987998
+    6 : 5 -3 UB:  0.9766557136448263
+MCTS chooses action 5
+Player 2: mcts wins!
+Game over!
+Total Node visits and wins:  500 -98
+Children: 
+    0 : 63 9 UB:  0.5870295710667931
+    1 : 38 0 UB:  0.5719131374247864
+    2 : 71 13 UB:  0.6014995751214502
+    3 : 161 53 UB:  0.6070416074091809
+    4 : 91 21 UB:  0.600343030397825
+    5 : 45 3 UB:  0.5922185712149421
+    6 : 31 -1 UB:  0.6009421075959149
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -174
+Children: 
+    0 : 83 29 UB:  0.7363725155608247
+    1 : 52 13 UB:  0.7389001824512378
+    2 : 152 70 UB:  0.746482884501867
+    3 : 50 12 UB:  0.7385823141035868
+    4 : 13 -3 UB:  0.7470311341332447
+    5 : 103 41 UB:  0.7454370110050665
+    6 : 47 12 UB:  0.7695675407114848
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -182
+Children: 
+    0 : 118 55 UB:  0.7906511374524794
+    1 : 60 18 UB:  0.7551413003461009
+    2 : 91 37 UB:  0.7761672062220009
+    3 : 91 37 UB:  0.7761672062220009
+    4 : 54 16 UB:  0.7760573517311169
+    5 : 47 11 UB:  0.748290944966804
+    6 : 39 8 UB:  0.7696615090183636
+MCTS chooses action 0
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -104
+Children: 
+    0 : 66 10 UB:  0.5854753542157508
+    1 : 53 5 UB:  0.5786055755516921
+    2 : 157 49 UB:  0.5934681883836445
+    3 : 160 52 UB:  0.6037159866786931
+    4 : 20 -4 UB:  0.5883278568224131
+    5 : 32 -2 UB:  0.5607278926294834
+    6 : 12 -6 UB:  0.5177268869415306
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -64
+Children: 
+    0 : 51 1 UB:  0.5132778964185458
+    1 : 58 3 UB:  0.5146461950638477
+    2 : 138 31 UB:  0.5247489672436065
+    3 : 151 35 UB:  0.5186899617319347
+    4 : 6 -6 UB:  0.43928316630446185
+    5 : 56 2 UB:  0.5068302897189937
+    6 : 40 -2 UB:  0.5074319733573861
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -57
+Children: 
+    0 : 31 -5 UB:  0.4719098495313988
+    1 : 44 -2 UB:  0.48603598719106794
+    2 : 265 73 UB:  0.4920420160923836
+    3 : 33 -4 UB:  0.4925002829772437
+    4 : 36 -2 UB:  0.5320293365816569
+    5 : 57 1 UB:  0.4845089809441097
+    6 : 34 -4 UB:  0.48697280709234414
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 10
+Children: 
+    0 : 17 -9 UB:  0.3256498497525483
+    1 : 74 -4 UB:  0.3557780835809021
+    2 : 260 36 UB:  0.35710434689614196
+    3 : 44 -8 UB:  0.3496723508274316
+    4 : 24 -9 UB:  0.3446415831522309
+    5 : 25 -9 UB:  0.3451018705646549
+    6 : 56 -7 UB:  0.34611600400470793
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -154
+Children: 
+    0 : 9 -5 UB:  0.6196142287188693
+    1 : 143 51 UB:  0.6514612593937299
+    2 : 242 102 UB:  0.6481159278983246
+    3 : 27 -1 UB:  0.6414475542573166
+    4 : 27 -1 UB:  0.6414475542573166
+    5 : 16 -4 UB:  0.6313773382058185
+    6 : 36 12 UB:  0.9209182254705457
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -82
+Children: 
+    0 : 124 26 UB:  0.5262775054108607
+    1 : 122 32 UB:  0.581479701404945
+    3 : 91 15 UB:  0.5344089644637591
+    4 : 46 0 UB:  0.519807995422649
+    5 : 70 8 UB:  0.5356646783827503
+    6 : 47 1 UB:  0.5355249875199956
+MCTS chooses action 0
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -88
+Children: 
+    0 : 191 55 UB:  0.5430550190256302
+    1 : 50 2 UB:  0.5385823141035868
+    3 : 17 -6 UB:  0.5021204379878423
+    4 : 53 2 UB:  0.5220018019667865
+    5 : 38 -2 UB:  0.519281558477418
+    6 : 151 37 UB:  0.5319349948445175
+MCTS chooses action 0
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 22
+Children: 
+    0 : 20 -10 UB:  0.28832785682241313
+    1 : 172 9 UB:  0.3211431493952367
+    3 : 95 -2 UB:  0.3406569960280948
+    4 : 22 -10 UB:  0.2970956649948721
+    5 : 99 -4 UB:  0.3139229813597019
+    6 : 92 -5 UB:  0.31321193239138445
+MCTS chooses action 1
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -108
+Children: 
+    0 : 12 -6 UB:  0.5177268869415306
+    1 : 180 56 UB:  0.5738870633852489
+    3 : 101 22 UB:  0.5686230742274486
+    4 : 28 0 UB:  0.6662586423144754
+    5 : 58 6 UB:  0.5663703329948822
+    6 : 121 30 UB:  0.568434734554182
+MCTS chooses action 1
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -440
+Children: 
+    0 : 11 1 UB:  1.1538901562003177
+    1 : 40 24 UB:  1.1574319733573861
+    3 : 409 409 UB:  1.174325218069206
+    4 : 11 1 UB:  1.1538901562003177
+    5 : 15 3 UB:  1.110282600692202
+    6 : 14 2 UB:  1.0850891508665588
+MCTS chooses action 3
+Player 1: mcts wins!
+Game over!
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -2
+Children: 
+    0 : 26 -8 UB:  0.3837169609769133
+    1 : 54 -4 UB:  0.40568698136074655
+    2 : 77 -1 UB:  0.38878206517457253
+    3 : 240 38 UB:  0.38590398350638383
+    4 : 41 -7 UB:  0.3798603508868026
+    5 : 30 -8 UB:  0.37700033307891573
+    6 : 32 -8 UB:  0.3732278926294834
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -146
+Children: 
+    0 : 93 31 UB:  0.6989116231531393
+    1 : 46 10 UB:  0.737199299770475
+    2 : 113 41 UB:  0.6944838803953202
+    3 : 108 38 UB:  0.6910941474990286
+    4 : 43 7 UB:  0.7004258336741944
+    5 : 75 21 UB:  0.6870907547766123
+    6 : 22 -2 UB:  0.6607320286312357
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -187
+Children: 
+    0 : 95 40 UB:  0.7827622591859895
+    1 : 76 28 UB:  0.7728247103543193
+    2 : 45 11 UB:  0.76999634899272
+    3 : 101 43 UB:  0.7765438663066566
+    4 : 41 9 UB:  0.770104253325827
+    5 : 92 42 UB:  0.8240814976087758
+    6 : 50 14 UB:  0.7785823141035868
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -143
+Children: 
+    0 : 161 57 UB:  0.6318863279060754
+    1 : 24 -2 UB:  0.6363082498188976
+    2 : 57 9 UB:  0.6248598581370921
+    3 : 11 -5 UB:  0.6084356107457722
+    4 : 217 92 UB:  0.6632903030022337
+    5 : 9 -5 UB:  0.6196142287188693
+    6 : 21 -3 UB:  0.6264720701232112
+MCTS chooses action 4
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -160
+Children: 
+    0 : 68 20 UB:  0.7216484542880388
+    1 : 161 71 UB:  0.7188428496452057
+    2 : 68 20 UB:  0.7216484542880388
+    3 : 44 8 UB:  0.7133087144637953
+    4 : 14 -4 UB:  0.6565177222951302
+    5 : 51 11 UB:  0.7093563277910948
+    6 : 94 34 UB:  0.725330652698176
+MCTS chooses action 1
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -84
+Children: 
+    0 : 19 -5 UB:  0.5456494207086386
+    1 : 66 8 UB:  0.5551723239127204
+    2 : 63 7 UB:  0.5552835393207614
+    3 : 32 -2 UB:  0.5607278926294834
+    4 : 50 2 UB:  0.5385823141035868
+    5 : 145 39 UB:  0.5617431331754363
+    6 : 125 35 UB:  0.5953311427289654
+MCTS chooses action 5
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -46
+Children: 
+    0 : 59 1 UB:  0.4759313758391442
+    1 : 22 -6 UB:  0.47891384681305393
+    2 : 55 0 UB:  0.47537958415726506
+    3 : 29 -5 UB:  0.482256858415429
+    4 : 230 57 UB:  0.48029128955911027
+    5 : 77 5 UB:  0.4667041430966504
+    6 : 28 -6 UB:  0.4519729280287611
+MCTS chooses action 4
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -120
+Children: 
+    0 : 20 -4 UB:  0.5883278568224131
+    1 : 117 39 UB:  0.6592667883008252
+    2 : 31 -1 UB:  0.6009421075959149
+    3 : 71 13 UB:  0.6014995751214502
+    4 : 205 75 UB:  0.6120859125396627
+    5 : 11 -5 UB:  0.6084356107457722
+    6 : 45 3 UB:  0.5922185712149421
+MCTS chooses action 4
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -132
+Children: 
+    0 : 5 -5 UB:  0.5766557136448263
+    1 : 62 10 UB:  0.6090304581295605
+    2 : 11 -5 UB:  0.6084356107457722
+    3 : 275 111 UB:  0.616232576694609
+    4 : 23 -3 UB:  0.6046847343479863
+    5 : 80 18 UB:  0.6191639284112066
+    6 : 44 6 UB:  0.6678541690092498
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -240
+Children: 
+    0 : 24 3 UB:  0.8446415831522309
+    1 : 39 10 UB:  0.8209435603004149
+    2 : 86 40 UB:  0.8452817295393605
+    3 : 148 83 UB:  0.8506058944806668
+    5 : 77 35 UB:  0.85631453270704
+    6 : 126 69 UB:  0.8616963836221863
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -325
+Children: 
+    0 : 7 -3 UB:  0.9039458560575222
+    1 : 13 -1 UB:  0.9008772879793987
+    2 : 12 -2 UB:  0.8510602202748639
+    3 : 7 -3 UB:  0.9039458560575222
+    5 : 12 -2 UB:  0.8510602202748639
+    6 : 449 336 UB:  0.9147086945362862
+MCTS chooses action 6
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -437
+Children: 
+    0 : 10 0 UB:  1.1148639467147723
+    1 : 17 5 UB:  1.1491792615172542
+    2 : 106 92 UB:  1.2103522675024423
+    3 : 15 4 UB:  1.1769492673588686
+    5 : 280 280 UB:  1.2106894820485181
+    6 : 72 56 UB:  1.1932630395307668
+MCTS chooses action 5
+Player 2: mcts wins!
+Game over!
+Total Node visits and wins:  500 -79
+Children: 
+    0 : 79 11 UB:  0.5358912980754142
+    1 : 18 -6 UB:  0.4976371901726448
+    2 : 70 8 UB:  0.5356646783827503
+    3 : 227 72 UB:  0.5511768910133419
+    4 : 14 -6 UB:  0.5136605794379874
+    5 : 49 1 UB:  0.5240523565257739
+    6 : 43 -1 UB:  0.5143793220462873
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -188
+Children: 
+    0 : 36 6 UB:  0.7542515588038791
+    1 : 74 26 UB:  0.7611834889863076
+    2 : 146 76 UB:  0.812321175277406
+    3 : 115 49 UB:  0.7548423988221291
+    4 : 41 9 UB:  0.770104253325827
+    5 : 19 -1 UB:  0.7561757364981123
+    6 : 69 23 UB:  0.7577547843348214
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -244
+Children: 
+    0 : 93 49 UB:  0.8924600102499134
+    1 : 175 109 UB:  0.889360599782933
+    2 : 38 12 UB:  0.887702611108997
+    3 : 50 20 UB:  0.8985823141035869
+    4 : 66 30 UB:  0.8885056572460538
+    5 : 38 12 UB:  0.887702611108997
+    6 : 40 12 UB:  0.8574319733573861
+MCTS chooses action 1
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -43
+Children: 
+    0 : 92 11 UB:  0.4871249758696453
+    1 : 27 -5 UB:  0.4932994061091685
+    2 : 56 0 UB:  0.47111600400470793
+    3 : 171 37 UB:  0.4859767074876749
+    4 : 71 5 UB:  0.48882351878342206
+    5 : 47 -1 UB:  0.49297179603063385
+    6 : 36 -4 UB:  0.47647378102610133
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -93
+Children: 
+    0 : 37 -1 UB:  0.5525631403126849
+    1 : 101 23 UB:  0.5785240643264585
+    2 : 38 0 UB:  0.5719131374247864
+    3 : 56 6 UB:  0.5782588611475651
+    4 : 203 67 UB:  0.5774915088796837
+    5 : 17 -5 UB:  0.5609439673996071
+    6 : 48 3 UB:  0.5713634434707653
+MCTS chooses action 4
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -161
+Children: 
+    0 : 11 -5 UB:  0.6084356107457722
+    1 : 157 63 UB:  0.6826401629059375
+    2 : 210 94 UB:  0.6909023059713171
+    3 : 44 7 UB:  0.6905814417365225
+    4 : 12 -4 UB:  0.6843935536081973
+    5 : 11 -5 UB:  0.6084356107457722
+    6 : 55 11 UB:  0.6753795841572651
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -98
+Children: 
+    0 : 37 -1 UB:  0.5525631403126849
+    1 : 45 1 UB:  0.5477741267704977
+    2 : 270 96 UB:  0.5701112221374163
+    3 : 50 2 UB:  0.5385823141035868
+    4 : 78 12 UB:  0.5530314812325309
+    5 : 14 -6 UB:  0.5136605794379874
+    6 : 6 -6 UB:  0.43928316630446185
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -75
+Children: 
+    0 : 34 -3 UB:  0.5163845717982265
+    1 : 114 26 UB:  0.5582643792838804
+    2 : 35 -2 UB:  0.5387769887818967
+    3 : 194 55 UB:  0.5366219749534364
+    4 : 41 -1 UB:  0.5262018143014368
+    5 : 21 -5 UB:  0.5312339748851158
+    6 : 61 5 UB:  0.5333624308244895
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -153
+Children: 
+    0 : 62 16 UB:  0.7058046516779476
+    1 : 114 44 UB:  0.7161591161259857
+    2 : 22 -2 UB:  0.6607320286312357
+    3 : 112 43 UB:  0.7170578925858091
+    4 : 46 8 UB:  0.6937210389009099
+    5 : 43 7 UB:  0.7004258336741944
+    6 : 101 37 UB:  0.7171379257125972
+MCTS chooses action 1
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -192
+Children: 
+    0 : 117 52 UB:  0.7703778994119362
+    1 : 21 -1 UB:  0.7217101653613063
+    2 : 74 26 UB:  0.7611834889863076
+    3 : 70 24 UB:  0.764236106954179
+    4 : 76 28 UB:  0.7728247103543193
+    5 : 16 -2 UB:  0.7563773382058185
+    6 : 126 65 UB:  0.8299503518761546
+MCTS chooses action 6
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -295
+Children: 
+    0 : 174 130 UB:  1.0143946110810542
+    1 : 68 38 UB:  0.98635433664098
+    2 : 70 39 UB:  0.9785218212398932
+    3 : 50 24 UB:  0.9785823141035868
+    4 : 39 16 UB:  0.9747897141465688
+    5 : 40 17 UB:  0.9824319733573861
+    6 : 59 31 UB:  0.9844059521103307
+MCTS chooses action 0
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -269
+Children: 
+    0 : 7 -3 UB:  0.9039458560575222
+    1 : 159 100 UB:  0.9085218958821275
+    2 : 28 6 UB:  0.8805443566001897
+    3 : 21 3 UB:  0.9121863558374967
+    4 : 88 47 UB:  0.9099114688610723
+    5 : 18 1 UB:  0.8865260790615337
+    6 : 179 115 UB:  0.9059670415711873
+MCTS chooses action 6
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -311
+Children: 
+    0 : 39 17 UB:  1.0004307397875944
+    1 : 162 122 UB:  1.0300765942550791
+    2 : 18 3 UB:  0.9976371901726447
+    3 : 77 47 UB:  1.012158688551196
+    4 : 55 30 UB:  1.0208341296118104
+    5 : 67 40 UB:  1.0277244440805111
+    6 : 82 52 UB:  1.0234737194868333
+MCTS chooses action 1
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -448
+Children: 
+    0 : 76 67 UB:  1.2859826050911614
+    1 : 61 49 UB:  1.2546739062343257
+    2 : 78 68 UB:  1.2709801991812488
+    3 : 106 99 UB:  1.2763900033514988
+    4 : 123 119 UB:  1.2853641478144258
+    5 : 56 46 UB:  1.2925445754332794
+MCTS chooses action 4
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -466
+Children: 
+    0 : 35 25 UB:  1.310205560210468
+    1 : 94 88 UB:  1.2997987378045588
+    2 : 80 74 UB:  1.3191639284112067
+    3 : 80 74 UB:  1.3191639284112067
+    4 : 89 83 UB:  1.3062875136564478
+    5 : 122 122 UB:  1.319184619437732
+MCTS chooses action 5
+Player 1: mcts wins!
+Game over!
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 4
+Children: 
+    0 : 61 -3 UB:  0.402214889840883
+    1 : 75 -1 UB:  0.3937574214432789
+    2 : 46 -6 UB:  0.3893732128139533
+    3 : 162 20 UB:  0.4004469646254495
+    4 : 75 -1 UB:  0.3937574214432789
+    5 : 49 -5 UB:  0.4016033769339371
+    6 : 32 -8 UB:  0.3732278926294834
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -165
+Children: 
+    0 : 21 -3 UB:  0.6264720701232112
+    1 : 76 32 UB:  0.8254562893016877
+    2 : 114 39 UB:  0.6722994670031787
+    3 : 209 91 UB:  0.6792712797488916
+    4 : 9 -5 UB:  0.6196142287188693
+    5 : 66 16 UB:  0.6763844451248417
+    6 : 5 -5 UB:  0.5766557136448263
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -93
+Children: 
+    0 : 75 12 UB:  0.5670907547766122
+    1 : 104 24 UB:  0.5764738651038412
+    2 : 62 8 UB:  0.5767723936134315
+    3 : 105 27 UB:  0.601197340602954
+    4 : 19 -5 UB:  0.5456494207086386
+    5 : 125 33 UB:  0.5793311427289654
+    6 : 10 -6 UB:  0.5148639467147723
+MCTS chooses action 5
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -165
+Children: 
+    0 : 32 2 UB:  0.6857278926294834
+    1 : 90 30 UB:  0.704954648904924
+    2 : 5 -5 UB:  0.5766557136448263
+    3 : 60 15 UB:  0.705141300346101
+    4 : 33 3 UB:  0.7046214950984558
+    5 : 206 98 UB:  0.7213620311703909
+    6 : 74 22 UB:  0.7071294349322534
+MCTS chooses action 5
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -138
+Children: 
+    0 : 81 22 UB:  0.6633281996964132
+    1 : 192 78 UB:  0.6606817217353826
+    2 : 29 1 UB:  0.6891534101395669
+    3 : 9 -5 UB:  0.6196142287188693
+    4 : 61 13 UB:  0.6645099718080961
+    5 : 32 1 UB:  0.6544778926294834
+    6 : 96 28 UB:  0.6514874582427821
+MCTS chooses action 1
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -376
+Children: 
+    0 : 88 62 UB:  1.080366014315618
+    1 : 20 6 UB:  1.088327856822413
+    2 : 296 262 UB:  1.0900512039526131
+    3 : 49 29 UB:  1.0954809279543452
+    4 : 20 6 UB:  1.088327856822413
+    6 : 27 11 UB:  1.085891998701761
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -460
+Children: 
+    0 : 141 141 UB:  1.2969014474218101
+    1 : 55 45 UB:  1.2935614023390833
+    2 : 77 69 UB:  1.2978729742654815
+    3 : 35 23 UB:  1.2530627030676111
+    4 : 141 141 UB:  1.2969014474218101
+    6 : 51 41 UB:  1.297591621908742
+MCTS chooses action 0
+Player 2: mcts wins!
+Game over!
+Total Node visits and wins:  500 -52
+Children: 
+    0 : 37 -3 UB:  0.49850908625863083
+    1 : 79 13 UB:  0.5612077537716167
+    2 : 75 7 UB:  0.5004240881099455
+    3 : 82 10 UB:  0.5112785975356139
+    4 : 101 15 UB:  0.49931614353437936
+    5 : 25 -5 UB:  0.5051018705646548
+    6 : 101 15 UB:  0.49931614353437936
+MCTS chooses action 4
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -161
+Children: 
+    0 : 27 1 UB:  0.7155216283313908
+    1 : 43 7 UB:  0.7004258336741944
+    2 : 142 59 UB:  0.7113471304854706
+    3 : 126 50 UB:  0.7109027328285354
+    4 : 74 22 UB:  0.7071294349322534
+    5 : 51 11 UB:  0.7093563277910948
+    6 : 37 11 UB:  0.8768874646370093
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -203
+Children: 
+    0 : 28 4 UB:  0.8091157851716182
+    1 : 158 83 UB:  0.8057909203030245
+    2 : 52 16 UB:  0.7965924901435455
+    3 : 67 25 UB:  0.8038438470655858
+    4 : 99 45 UB:  0.8088724763091968
+    5 : 69 27 UB:  0.815725798827575
+    6 : 27 3 UB:  0.7895957024054647
+MCTS chooses action 1
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -73
+Children: 
+    0 : 21 -5 UB:  0.5312339748851158
+    1 : 168 44 UB:  0.5339037136364209
+    2 : 89 13 UB:  0.5197706597238636
+    3 : 117 24 UB:  0.531061660095697
+    4 : 66 6 UB:  0.5248692936096901
+    5 : 33 -3 UB:  0.522803313280274
+    6 : 6 -6 UB:  0.43928316630446185
+MCTS chooses action 1
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -68
+Children: 
+    0 : 20 -6 UB:  0.48832785682241314
+    1 : 210 54 UB:  0.5004261154951265
+    2 : 109 17 UB:  0.49364585544500783
+    3 : 125 23 UB:  0.4993311427289653
+    4 : 6 -6 UB:  0.43928316630446185
+    5 : 17 -7 UB:  0.44329690857607773
+    6 : 13 -7 UB:  0.43933882644093714
+MCTS chooses action 1
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 7
+Children: 
+    0 : 42 -8 UB:  0.3535217129871274
+    1 : 24 -9 UB:  0.3446415831522309
+    2 : 51 -7 UB:  0.3564151513205066
+    3 : 165 18 UB:  0.38355143997135843
+    4 : 165 15 UB:  0.36536962178954024
+    5 : 14 -8 UB:  0.37080343658084447
+    6 : 39 -8 UB:  0.3594050987619534
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -72
+Children: 
+    0 : 61 6 UB:  0.5497558734474404
+    1 : 22 -5 UB:  0.5243683922675993
+    2 : 63 7 UB:  0.5552835393207614
+    3 : 77 11 UB:  0.5446262210187284
+    4 : 125 31 UB:  0.5633311427289653
+    5 : 80 13 UB:  0.5566639284112066
+    6 : 72 9 UB:  0.540485261752989
+MCTS chooses action 4
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -38
+Children: 
+    0 : 9 -7 UB:  0.3973920064966471
+    1 : 65 1 UB:  0.45267023225382236
+    2 : 74 4 UB:  0.46388619168901024
+    3 : 21 -7 UB:  0.43599587964702063
+    4 : 17 -7 UB:  0.44329690857607773
+    5 : 177 33 UB:  0.4514341881397455
+    6 : 137 21 UB:  0.45448926282650937
+MCTS chooses action 5
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 36
+Children: 
+    0 : 48 -10 UB:  0.3005301101374319
+    1 : 10 -8 UB:  0.31486394671477225
+    2 : 64 -8 UB:  0.31568866910290927
+    3 : 173 10 UB:  0.3258429808337131
+    4 : 113 -2 UB:  0.3139529069439927
+    5 : 62 -8 UB:  0.3187078774843992
+    6 : 30 -10 UB:  0.3103336664122491
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -45
+Children: 
+    0 : 9 -7 UB:  0.3973920064966471
+    1 : 68 2 UB:  0.4569425719350977
+    2 : 224 58 UB:  0.4944865734309254
+    3 : 69 2 UB:  0.4534069582478648
+    4 : 32 -5 UB:  0.4669778926294834
+    5 : 50 -2 UB:  0.45858231410358685
+    6 : 48 -3 UB:  0.4463634434707653
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 0
+Children: 
+    0 : 105 6 UB:  0.40119734060295414
+    1 : 49 -6 UB:  0.38119521366863096
+    2 : 49 -5 UB:  0.4016033769339371
+    3 : 45 -6 UB:  0.3922185712149422
+    4 : 70 5 UB:  0.4928075355256075
+    5 : 91 3 UB:  0.4025408325956272
+    6 : 91 3 UB:  0.4025408325956272
+MCTS chooses action 0
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 25
+Children: 
+    0 : 23 -11 UB:  0.2568586473914646
+    1 : 25 -11 UB:  0.2651018705646549
+    2 : 25 -11 UB:  0.2651018705646549
+    3 : 25 -11 UB:  0.2651018705646549
+    4 : 23 -11 UB:  0.2568586473914646
+    5 : 24 -11 UB:  0.2613082498188976
+    6 : 355 41 UB:  0.30260756597050087
+MCTS chooses action 6
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -121
+Children: 
+    0 : 36 0 UB:  0.5875848921372124
+    2 : 188 73 UB:  0.6454220682280829
+    3 : 15 -5 UB:  0.5769492673588688
+    4 : 118 30 UB:  0.5787867306728183
+    5 : 95 20 UB:  0.5722359433965158
+    6 : 48 3 UB:  0.5713634434707653
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -268
+Children: 
+    0 : 71 32 UB:  0.8691052089242671
+    3 : 32 8 UB:  0.8732278926294834
+    4 : 219 140 UB:  0.8775012511526608
+    5 : 103 54 UB:  0.8716506032380763
+    6 : 75 34 UB:  0.8604240881099455
+MCTS chooses action 4
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -269
+Children: 
+    0 : 122 69 UB:  0.884758389929535
+    3 : 53 21 UB:  0.8804923680045222
+    4 : 69 31 UB:  0.8736968133203286
+    5 : 149 89 UB:  0.8861364160337358
+    6 : 107 59 UB:  0.8922257225434806
+MCTS chooses action 5
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -233
+Children: 
+    0 : 45 12 UB:  0.7922185712149421
+    3 : 39 9 UB:  0.7953025346593894
+    4 : 95 41 UB:  0.7932885749754632
+    5 : 241 140 UB:  0.8080108841764612
+    6 : 80 31 UB:  0.7816639284112066
+MCTS chooses action 5
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -328
+Children: 
+    0 : 7 -4 UB:  0.7610887132003794
+    3 : 72 36 UB:  0.915485261752989
+    4 : 325 241 UB:  0.9370985345189566
+    6 : 96 55 UB:  0.9327374582427821
+MCTS chooses action 4
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -455
+Children: 
+    0 : 88 73 UB:  1.205366014315618
+    3 : 49 34 UB:  1.1975217442808759
+    4 : 85 70 UB:  1.2059245907406595
+    6 : 278 278 UB:  1.2114459996784421
+MCTS chooses action 6
+Player 1: mcts wins!
+Game over!
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 11
+Children: 
+    0 : 43 -7 UB:  0.37484443832535713
+    1 : 56 -4 UB:  0.3996874325761365
+    2 : 88 1 UB:  0.3871841961337997
+    3 : 102 4 UB:  0.3882931286184349
+    4 : 53 -5 UB:  0.3899263302686732
+    5 : 90 2 UB:  0.39384353779381287
+    6 : 68 -2 UB:  0.39811904252333297
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -106
+Children: 
+    0 : 28 -2 UB:  0.594830070885904
+    1 : 117 35 UB:  0.6250787541127909
+    2 : 133 39 UB:  0.5989335134551259
+    3 : 123 35 UB:  0.602437318546133
+    4 : 42 2 UB:  0.5916169510823654
+    5 : 13 -5 UB:  0.593184980287091
+    6 : 44 2 UB:  0.5769450781001588
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -185
+Children: 
+    0 : 173 81 UB:  0.7362476051111697
+    1 : 71 39 UB:  0.9676967582200418
+    2 : 88 32 UB:  0.7394569234065269
+    3 : 61 17 UB:  0.7300837422998994
+    4 : 38 6 UB:  0.7298078742668916
+    5 : 54 13 UB:  0.7205017961755613
+    6 : 15 -3 UB:  0.7102826006922021
+MCTS chooses action 0
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -424
+Children: 
+    0 : 8 -2 UB:  0.9964557852589668
+    1 : 372 372 UB:  1.182789144909903
+    2 : 24 10 UB:  1.1363082498188977
+    3 : 17 5 UB:  1.1491792615172542
+    4 : 17 5 UB:  1.1491792615172542
+    5 : 44 28 UB:  1.1678541690092499
+    6 : 18 6 UB:  1.1643038568393114
+MCTS chooses action 1
+Player 2: mcts wins!
+Game over!
+Total Node visits and wins:  500 -77
+Children: 
+    0 : 31 -3 UB:  0.5364259785636568
+    1 : 59 5 UB:  0.5437279860086357
+    2 : 145 40 UB:  0.5686396848995743
+    3 : 29 -3 UB:  0.5512223756568083
+    4 : 75 11 UB:  0.5537574214432789
+    5 : 114 26 UB:  0.5582643792838804
+    6 : 47 1 UB:  0.5355249875199956
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -174
+Children: 
+    0 : 29 1 UB:  0.6891534101395669
+    1 : 22 -2 UB:  0.6607320286312357
+    2 : 59 15 UB:  0.7132195114323645
+    3 : 285 145 UB:  0.7176050806919665
+    4 : 40 6 UB:  0.7074319733573862
+    5 : 58 14 UB:  0.7043013674776408
+    6 : 7 -5 UB:  0.6182315703432365
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -180
+Children: 
+    0 : 11 -4 UB:  0.6993447016548632
+    1 : 95 37 UB:  0.7511833118175685
+    2 : 75 25 UB:  0.7404240881099455
+    3 : 198 100 UB:  0.7555975448972807
+    4 : 30 2 UB:  0.710333666412249
+    5 : 37 6 UB:  0.7417523295018741
+    6 : 54 14 UB:  0.7390203146940799
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -245
+Children: 
+    0 : 83 43 UB:  0.9050472143560053
+    1 : 122 70 UB:  0.8929551112410106
+    2 : 47 18 UB:  0.89722711517957
+    3 : 116 67 UB:  0.9049215326559903
+    4 : 66 30 UB:  0.8885056572460538
+    5 : 31 7 UB:  0.8590066237249472
+    6 : 35 10 UB:  0.8816341316390396
+MCTS chooses action 1
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -116
+Children: 
+    0 : 31 -1 UB:  0.6009421075959149
+    1 : 20 -4 UB:  0.5883278568224131
+    2 : 149 48 UB:  0.6109686307988365
+    3 : 181 64 UB:  0.6156402066703119
+    4 : 20 -4 UB:  0.5883278568224131
+    5 : 23 -3 UB:  0.6046847343479863
+    6 : 76 16 UB:  0.614929973512214
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 25
+Children: 
+    0 : 19 -10 UB:  0.2824915259717966
+    1 : 209 11 UB:  0.29649616013166674
+    2 : 117 15 UB:  0.45413858317262
+    3 : 48 -10 UB:  0.3005301101374319
+    4 : 33 -11 UB:  0.2803790708560316
+    5 : 20 -10 UB:  0.28832785682241313
+    6 : 54 -10 UB:  0.29457587024963544
+MCTS chooses action 1
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -100
+Children: 
+    0 : 47 4 UB:  0.5993547747540381
+    1 : 170 56 UB:  0.5998059888528227
+    2 : 40 1 UB:  0.5824319733573862
+    3 : 22 -4 UB:  0.5698229377221449
+    4 : 54 8 UB:  0.6279092035829688
+    5 : 77 15 UB:  0.5965742729667803
+    6 : 90 20 UB:  0.5938435377938129
+MCTS chooses action 1
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -80
+Children: 
+    0 : 77 9 UB:  0.5186521950447024
+    1 : 17 -6 UB:  0.5021204379878423
+    2 : 225 77 UB:  0.5772561790771071
+    3 : 38 -2 UB:  0.519281558477418
+    4 : 20 -6 UB:  0.48832785682241314
+    5 : 53 1 UB:  0.5031338774384846
+    6 : 70 7 UB:  0.5213789640970361
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -174
+Children: 
+    0 : 106 41 UB:  0.7292201920307442
+    1 : 92 38 UB:  0.7806032367392106
+    2 : 170 79 UB:  0.7351001064998814
+    3 : 17 -3 UB:  0.6785910262231365
+    4 : 21 -1 UB:  0.7217101653613063
+    5 : 57 15 UB:  0.730123016031829
+    6 : 37 5 UB:  0.714725302474847
+MCTS chooses action 2
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -277
+Children: 
+    0 : 15 -1 UB:  0.8436159340255354
+    1 : 14 -2 UB:  0.799374865152273
+    2 : 14 -2 UB:  0.799374865152273
+    3 : 12 -2 UB:  0.8510602202748639
+    4 : 15 -1 UB:  0.8436159340255354
+    5 : 15 -1 UB:  0.8436159340255354
+    6 : 415 286 UB:  0.8622170741727655
+MCTS chooses action 6
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -397
+Children: 
+    0 : 72 56 UB:  1.1932630395307668
+    1 : 61 45 UB:  1.1891001357425224
+    2 : 82 68 UB:  1.2185956707063457
+    3 : 33 19 UB:  1.1894699799469408
+    4 : 127 115 UB:  1.2183501783471344
+    5 : 72 56 UB:  1.1932630395307668
+    6 : 53 38 UB:  1.2012470849856542
+MCTS chooses action 4
+Current Turn:  ab5   using symbol :  O
+Current Turn:  mcts   using symbol :  X
+Total Node visits and wins:  500 -483
+Children: 
+    0 : 65 59 UB:  1.3449779245615145
+    1 : 100 100 UB:  1.3525509352823275
+    2 : 68 63 UB:  1.3540013954645094
+    3 : 69 63 UB:  1.3374649292623575
+    4 : 99 99 UB:  1.3543270217637424
+    5 : 99 99 UB:  1.3543270217637424
+MCTS chooses action 1
+Player 1: mcts wins!
+Game over!
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 1
+Children: 
+    0 : 62 -4 UB:  0.3832240065166573
+    1 : 106 5 UB:  0.3895975505213102
+    2 : 10 -8 UB:  0.31486394671477225
+    3 : 102 4 UB:  0.3882931286184349
+    4 : 97 9 UB:  0.45074474530782105
+    5 : 41 -7 UB:  0.3798603508868026
+    6 : 82 0 UB:  0.38932737802341877
+MCTS chooses action 1
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -13
+Children: 
+    0 : 14 -8 UB:  0.37080343658084447
+    1 : 66 0 UB:  0.43396020270059926
+    2 : 62 -2 UB:  0.41548207103278634
+    3 : 155 21 UB:  0.4186595966091613
+    4 : 136 15 UB:  0.4126040506049956
+    5 : 40 -6 UB:  0.4074319733573861
+    6 : 27 -7 UB:  0.41922533203509443
+MCTS chooses action 3
+Current Turn:  ab5   using symbol :  X
+Current Turn:  mcts   using symbol :  O
+Total Node visits and wins:  500 -285
+Children: 
+    4 : 157 157 UB:  1.281366277555619
+    5 : 39 27 UB:  1.2568409961978508
+    6 : 29 17 UB:  1.2408775480706014
+MCTS chooses action 0
+Player 2: mcts wins!
+Game over!
+Experiment results:
+{'mcts': {'wins': 10, 'ties': 0, 'losses': 0}, 'ab5': {'wins': 0, 'ties': 0, 'losses': 10}}
+PS C:\Users\troop\Desktop\finish.delete.Open Tabs\,school\CS 470\Projects\1212 Programming Assignment (Monte Carlo Tree Search)\PA
+-Connect4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
