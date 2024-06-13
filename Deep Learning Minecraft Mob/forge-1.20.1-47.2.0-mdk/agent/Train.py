@@ -32,7 +32,7 @@ model = DQN(
     verbose=1)
 
 # Train the agent
-model.learn(total_timesteps=1000000)
+model.learn(total_timesteps=10000000)
 
 model.save("./Checkpoints/MinecraftDQN")
 env.close()
